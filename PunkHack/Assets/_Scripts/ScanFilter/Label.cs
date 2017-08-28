@@ -5,11 +5,11 @@ using UnityEngine;
 public class Label : MonoBehaviour
 {
     [SerializeField] private Scan _scan;
-    [SerializeField] private string _device;
-    [SerializeField] private string _activity;
-    [SerializeField] private string _sentiment;
-    [SerializeField] private string _issue;
-    [SerializeField] private string _faction;
+    [SerializeField] public string _device;
+    [SerializeField] public string _activity;
+    [SerializeField] public string _sentiment;
+    [SerializeField] public string _issue;
+    [SerializeField] public string _faction;
 
     private void Start()
     {
@@ -20,4 +20,7 @@ public class Label : MonoBehaviour
         _faction = _scan.Faction[Random.Range(0,2)];
         
     }
+    
+    
+    
 }
