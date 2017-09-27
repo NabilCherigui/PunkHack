@@ -12,39 +12,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Scan.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <file leaf-file-name="Label.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="60" column="62" lean-forward="false" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
+            <state relative-caret-position="435">
+              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
               <folding>
-                <marker date="1503929391669" expanded="false" signature="6:78" ph="..." />
-                <marker date="1503929391669" expanded="true" signature="113:2342" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="742:817" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="848:2340" ph="{...}" />
-                <marker date="1503929391669" expanded="false" signature="855:1420" ph="/* if (Input.GetKeyDown(KeyCode.Alpha1)) ... */" />
-                <marker date="1503929391669" expanded="true" signature="1463:1574" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="1521:1567" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="1641:1765" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="1695:1737" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="1830:2000" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="1884:1985" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="1932:1977" ph="{...}" />
-                <marker date="1503929391669" expanded="true" signature="2046:2334" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+                <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+                <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+                <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Label.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <file leaf-file-name="Scan.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="765">
+              <caret line="89" column="80" lean-forward="false" selection-start-line="89" selection-start-column="80" selection-end-line="89" selection-end-column="80" />
               <folding>
-                <marker date="1503257281179" expanded="false" signature="6:78" ph="..." />
-                <marker date="1503257281179" expanded="true" signature="114:711" ph="{...}" />
-                <marker date="1503257281179" expanded="true" signature="408:694" ph="{...}" />
+                <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+                <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+                <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+                <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -161,6 +160,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -205,11 +210,20 @@
       <workItem from="1502986328454" duration="1886000" />
       <workItem from="1503253018389" duration="2622000" />
       <workItem from="1503584677032" duration="6626000" />
+      <workItem from="1504447552607" duration="8686000" />
+      <workItem from="1504871840126" duration="539000" />
+      <workItem from="1505125914658" duration="1291000" />
+      <workItem from="1505302675180" duration="14000" />
+      <workItem from="1505303071486" duration="10000" />
+      <workItem from="1505306530267" duration="1151000" />
+      <workItem from="1506182631446" duration="976000" />
+      <workItem from="1506410112857" duration="11636000" />
+      <workItem from="1506533621853" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25327000" />
+    <option name="totallyTimeSpent" value="49980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,15 +242,15 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -253,28 +267,62 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="570">
+          <caret line="70" column="5" lean-forward="false" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
           <folding>
-            <marker date="1503929391669" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503929391669" expanded="true" signature="113:2342" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="742:817" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="848:2340" ph="{...}" />
-            <marker date="1503929391669" expanded="false" signature="855:1420" ph="/* if (Input.GetKeyDown(KeyCode.Alpha1)) ... */" />
-            <marker date="1503929391669" expanded="true" signature="1463:1574" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1521:1567" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1641:1765" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1695:1737" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1830:2000" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1884:1985" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1932:1977" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="2046:2334" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="89" column="46" lean-forward="false" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -284,9 +332,75 @@
         <state relative-caret-position="195">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1503257281179" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503257281179" expanded="true" signature="114:711" ph="{...}" />
-            <marker date="1503257281179" expanded="true" signature="408:694" ph="{...}" />
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="89" column="46" lean-forward="false" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -296,31 +410,63 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503929391669" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503929391669" expanded="true" signature="113:2342" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="742:817" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="848:2340" ph="{...}" />
-            <marker date="1503929391669" expanded="false" signature="855:1420" ph="/* if (Input.GetKeyDown(KeyCode.Alpha1)) ... */" />
-            <marker date="1503929391669" expanded="true" signature="1463:1574" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1521:1567" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1641:1765" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1695:1737" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1830:2000" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1884:1985" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1932:1977" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="2046:2334" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1503257281179" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503257281179" expanded="true" signature="114:711" ph="{...}" />
-            <marker date="1503257281179" expanded="true" signature="408:694" ph="{...}" />
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -330,19 +476,150 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503929391669" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503929391669" expanded="true" signature="113:2342" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="742:817" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="848:2340" ph="{...}" />
-            <marker date="1503929391669" expanded="false" signature="855:1420" ph="/* if (Input.GetKeyDown(KeyCode.Alpha1)) ... */" />
-            <marker date="1503929391669" expanded="true" signature="1463:1574" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1521:1567" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1641:1765" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1695:1737" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1830:2000" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1884:1985" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1932:1977" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="2046:2334" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="60" column="62" lean-forward="false" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -352,9 +629,42 @@
         <state relative-caret-position="330">
           <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding>
-            <marker date="1503257281179" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503257281179" expanded="true" signature="114:711" ph="{...}" />
-            <marker date="1503257281179" expanded="true" signature="408:694" ph="{...}" />
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -364,19 +674,18 @@
         <state relative-caret-position="60">
           <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
           <folding>
-            <marker date="1503929391669" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503929391669" expanded="true" signature="113:2342" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="742:817" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="848:2340" ph="{...}" />
-            <marker date="1503929391669" expanded="false" signature="855:1420" ph="/* if (Input.GetKeyDown(KeyCode.Alpha1)) ... */" />
-            <marker date="1503929391669" expanded="true" signature="1463:1574" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1521:1567" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1641:1765" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1695:1737" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1830:2000" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1884:1985" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1932:1977" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="2046:2334" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -386,43 +695,42 @@
         <state relative-caret-position="255">
           <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
           <folding>
-            <marker date="1503257281179" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503257281179" expanded="true" signature="114:711" ph="{...}" />
-            <marker date="1503257281179" expanded="true" signature="408:694" ph="{...}" />
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Label.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
           <folding>
-            <marker date="1503257281179" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503257281179" expanded="true" signature="114:711" ph="{...}" />
-            <marker date="1503257281179" expanded="true" signature="408:694" ph="{...}" />
+            <marker date="1506412280524" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506412280524" expanded="true" signature="114:1136" ph="{...}" />
+            <marker date="1506412280524" expanded="true" signature="568:1129" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ScanFilter/Scan.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="60" column="62" lean-forward="false" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
+        <state relative-caret-position="765">
+          <caret line="89" column="80" lean-forward="false" selection-start-line="89" selection-start-column="80" selection-end-line="89" selection-end-column="80" />
           <folding>
-            <marker date="1503929391669" expanded="false" signature="6:78" ph="..." />
-            <marker date="1503929391669" expanded="true" signature="113:2342" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="742:817" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="848:2340" ph="{...}" />
-            <marker date="1503929391669" expanded="false" signature="855:1420" ph="/* if (Input.GetKeyDown(KeyCode.Alpha1)) ... */" />
-            <marker date="1503929391669" expanded="true" signature="1463:1574" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1521:1567" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1641:1765" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1695:1737" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1830:2000" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1884:1985" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="1932:1977" ph="{...}" />
-            <marker date="1503929391669" expanded="true" signature="2046:2334" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="false" signature="6:78" ph="..." />
+            <marker date="1506533923460" expanded="true" signature="113:2433" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="904:979" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1010:1864" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1019:1752" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506533923460" expanded="true" signature="1794:1852" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1905:2429" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="1978:2426" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2061:2422" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2113:2417" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2162:2410" ph="{...}" />
+            <marker date="1506533923460" expanded="true" signature="2226:2403" ph="{...}" />
           </folding>
         </state>
       </provider>
